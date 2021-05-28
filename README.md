@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Home Page
+
+![screenshot](https://github.com/Anurag-Chitnis/usurvey/blob/master/asset/home.png?raw=true)
+
+## Questions Page
+![screenshot](https://github.com/Anurag-Chitnis/usurvey/blob/master/asset/survey_screen.png?raw=true)
+
+## Final Page
+![screenshot](https://github.com/Anurag-Chitnis/usurvey/blob/master/asset/thanks.png?raw=true)
+
 ## Available Scripts
 
 In the project directory, you can run:
